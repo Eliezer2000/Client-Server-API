@@ -87,4 +87,4 @@ Dólar: 5.4321
 - O banco `cotacao.db` será criado automaticamente na primeira execução do servidor
 ---
 ## 👨‍💻 Autor
-Desenvolvido por [Seu Nome] 🚀
+Desenvolvido por Eliézer Alves 🚀
